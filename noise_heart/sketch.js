@@ -1,6 +1,6 @@
 var xoff = 0,yoff = 0,zoff = 0;
 function setup() {
-	createCanvas(400, 400);
+	createCanvas(windowWidth, windowHeight);
   background(0);
 }
 
